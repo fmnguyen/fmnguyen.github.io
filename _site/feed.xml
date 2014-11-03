@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Musings and Perusings</title>
+    <description>Welcome! Francis here. I&#39;m a concert-chasing, coffee-obsessed, life-loving person just trying to make cool things and revolutionize education. Always down and trying to explore, adventure and experience. Senior | Informatics 2015 | UW | UX/UI/Industrial Design | Web Development</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 03 Nov 2014 14:02:45 -0800</pubDate>
+    <lastBuildDate>Mon, 03 Nov 2014 14:02:45 -0800</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Welcome!</title>
+        <description>&lt;p&gt;I’ve finally put together enough things on GitHub to host a site and use Jekyll. &lt;/p&gt;
+
+&lt;p&gt;In an attempt to cater to the writer in me, I’m going to attempt to update this every so often.
+Drop by when I’ve updated it quite a bit more!&lt;/p&gt;
+
+&lt;p&gt;Francis&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Nov 2014 05:20:05 -0800</pubDate>
+        <link>http://yourdomain.com/intro/writing/blog/2014/11/03/welcome/</link>
+        <guid isPermaLink="true">http://yourdomain.com/intro/writing/blog/2014/11/03/welcome/</guid>
+        
+        <category>blog</category>
+        
+        <category>beginning</category>
+        
+        
+        <category>intro</category>
+        
+        <category>writing</category>
+        
+        <category>blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>
