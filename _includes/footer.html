@@ -1,11 +1,10 @@
 <footer>
-    <div class="about-wrap">
-        <section class="about">
-            <img class="about-avatar" src="{{ "/img/avatar.jpg" | prepend: site.baseurl }}" border="0" alt="[name]" />
-            <div class="about-body">
-                <p class="about-body-title">About</p>
-                <p class="about-body-description">{{ site.description }}</p>
-            </div>
-        </section>
+    {% include paginate.html %}
+    {% include suggestion.html %}
+    <hr />
+    <div class="theme-footer">
+        <p class="alignable pull-left" style="display: inline-block">
+            Built with <a href="http://jekyllrb.com/" class="different-highlight underline">Jekyll</a> and <a href="http://ankitsultana.me/accent/" class="different-highlight underline">accent</a>
+        </p>
     </div>
 </footer>
