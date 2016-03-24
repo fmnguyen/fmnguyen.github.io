@@ -1,12 +1,12 @@
 # User Settings | Edit there as per required
 
 title: accent
-url: "http://localhost:4000"
-baseurl: "/accent"
+url: "http://fmnguyen.github.io"
+baseurl: ""
 
 # This will show up at the top of index page
 site_heading: >
-    foo <span class="faded">'s blog</span>
+    The Slate Project</br><span class="faded">Informatics UW Capstone 2016</span>
 
 email: your@email.com
 author: yourname
